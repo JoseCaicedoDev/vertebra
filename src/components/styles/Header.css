@@ -1,0 +1,23 @@
+.Navbar{
+  padding: 0.5rem 0;
+  height: 5rem;
+  background-color: #1C3643;
+}
+.Navbar__brand {
+  color: #ffffff;
+
+  display: flex;
+  align-items: center;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.Navbar__brand:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.Navbar__brand-logo {
+  margin-right: 0.5rem;
+  width: 50px;
+}

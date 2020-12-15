@@ -1,0 +1,14 @@
+.home{
+  width:100%;
+  height: 100vh;
+  background-color: #343a40;
+}
+.home__img{
+  text-align: center;
+}
+.home__img>img{
+  width: 40%;
+}
+.home__img>h1{
+  color: #fff;
+}
